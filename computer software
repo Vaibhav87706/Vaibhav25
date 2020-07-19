@@ -1,0 +1,96 @@
+<html>
+<head>
+<title>Student Registration Form</title>
+<link rel="stylesheet" href="styles.css" type="text/css">
+</head>
+
+<body>
+<div style=background-color:navy;"height: 300px;width:600px";>
+<header style="height:150px;width:800px";>
+
+
+</header>
+</div>
+<div style=background-color:#0099ff;"height: 500px;width:400px";>
+<header style="height:130px;width:600px";>
+</header>
+</div>
+<ul>
+<li><class= "active" ><a href="#">Home</a></li>
+<li><a href="https://www.google.com/">About us</a></li>
+<li><a href="#">Services</a></li>
+<li><a href="#">products</a></li>
+<li><a href="#">Conatact</a></li>
+<li><a href="#">information</a></li>
+<li><a href="#">Conatact</a></li>
+
+</ul>
+<h1><font color="yellow">ENQUIRY<BR>Student Registration</font></h1>
+
+
+
+
+
+
+ <br><br><br><br><br><br><br><br><br><br>
+	 
+	 <footer>
+	 <div class="main-content">
+	 <div class="left-box">
+	 <h2>About us</h2>
+	 <div class="content">
+	 <p>
+	You can easily change the formatting of selected text in the document text by choosing a look for the selected text from the Quick Styles gallery on the Home tab. You can also format text directly by using the other </p>
+	 <div class="social">
+		<a href="#"><span class="fab fa-facebook-f"></span></a>
+		<a href="#"><span class="fab fa-twitter"></span></a>
+		<a href="#"><span class="fab instgram"></span></a>
+		<a href="#"><span class="fab fa-facebook-f"></span></a>
+		
+		
+</div>		
+</div>	
+</div>
+
+<div class="center box">
+</div>
+<div>
+<h2>Address</h2>
+<div class="content"></div>
+<div class="place">
+
+
+<span class="fas fa-map-market-alt"></span>
+<span class="text">"bidrendranagar,surkhet</span>
+</div>
+<div class="phone">
+<span class="fas fa-phone-ait"></span>
+<span class="text">+91 8770619169</span>
+</div>
+<div class="email">
+<span class="fas fa-envelope"></span>
+<span class="text">"abc@example.com"</span>
+</div>
+</div>
+<div class="right box">
+<h2>contact us</h2>
+<div class="content">
+</div>
+<form action="#">
+<div class="email"></div>
+<div class="text">email*</div>
+<input type="email"required>
+
+<div class="msg"></div>
+<div class="text">message *</div>
+<textarea rows="2"cols="25" required></textarea>
+
+<div class="btn">
+<button type="submit">Send</button>
+
+</div>
+<p>&copy VAIBHAV VAISHNAV<p>
+
+</footer>
+</body>
+</html> 
